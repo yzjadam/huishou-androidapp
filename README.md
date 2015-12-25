@@ -1,4 +1,4 @@
-# huishou-androidapp
+# 旧货回收app
 基于Bmob后端云的，旧货回收app(未完成)
 
 本人是android新手，这是我第一个基于android开发的项目，主要用于练手。
